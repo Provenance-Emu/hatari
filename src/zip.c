@@ -26,7 +26,7 @@ const char ZIP_fileid[] = "Hatari zip.c : " __DATE__ " " __TIME__;
 #include "st.h"
 #include "str.h"
 #include "unzip.h"
-#include "zip.h"
+#include "includes/zip.h"
 
 #ifdef QNX
 #include <sys/dir.h>
