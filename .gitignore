@@ -3,3 +3,4 @@
 *.dll
 *.bc
 *.a
+.DS_Store
